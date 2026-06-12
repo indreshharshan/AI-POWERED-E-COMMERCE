@@ -174,7 +174,7 @@ Shopper-AI/
 ---
 
 ### 🥽 AR Product View
-<img src="./Screenshots/ar-view.png" alt="AR View" width="100%" style="border-radius: 8px;" />
+<img src="./Screenshots/ar-view.jpeg" alt="AR View" width="100%" style="border-radius: 8px;" />
 
 ---
 
