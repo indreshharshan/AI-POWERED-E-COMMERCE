@@ -17,26 +17,6 @@
 
 ---
 
-## 🖥️ Project Preview
-
-<div align="center">
-
-<table>
-<tr>
-<td align="center" width="50%">
-<img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/assets/AI.gif" width="100%" alt="AI Shopping" />
-<br/><b>🤖 AI-Powered Shopping</b>
-</td>
-<td align="center" width="50%">
-<img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/assets/3d.gif" width="100%" alt="AR View" />
-<br/><b>🥽 Augmented Reality View</b>
-</td>
-</tr>
-</table>
-
-</div>
-
----
 
 ## 📖 About The Project
 
