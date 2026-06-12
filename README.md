@@ -159,32 +159,32 @@ Shopper-AI/
 ## 📸 Screenshots
 
 ### 🏠 Home Page
-<img src="./screenshots/home.png" alt="Home Page" width="100%" style="border-radius: 8px;" />
+<img src="./Screenshots/home.png" alt="Home Page" width="100%" style="border-radius: 8px;" />
 
 ---
 
 ### 🛍️ Product Listing
-<img src="./screenshots/products.png" alt="Product Page" width="100%" style="border-radius: 8px;" />
+<img src="./Screenshots/products.png" alt="Product Page" width="100%" style="border-radius: 8px;" />
 
 ---
 
 ### 🤖 AI Chatbot
-<img src="./screenshots/chatbot.png" alt="AI Chatbot" width="100%" style="border-radius: 8px;" />
+<img src="./Screenshots/chatbot.png" alt="AI Chatbot" width="100%" style="border-radius: 8px;" />
 
 ---
 
 ### 🥽 AR Product View
-<img src="./screenshots/ar-view.png" alt="AR View" width="100%" style="border-radius: 8px;" />
+<img src="./Screenshots/ar-view.png" alt="AR View" width="100%" style="border-radius: 8px;" />
 
 ---
 
 ### 🛒 Shopping Cart
-<img src="./screenshots/cart.png" alt="Shopping Cart" width="100%" style="border-radius: 8px;" />
+<img src="./Screenshots/cart.png" alt="Shopping Cart" width="100%" style="border-radius: 8px;" />
 
 ---
 
 ### 📊 Admin Dashboard
-<img src="./screenshots/admin-dashboard.png" alt="Admin Dashboard" width="100%" style="border-radius: 8px;" />
+<img src="./Screenshots/admin-dashboard.png" alt="Admin Dashboard" width="100%" style="border-radius: 8px;" />
 
 ---
 
