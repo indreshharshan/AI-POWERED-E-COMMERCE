@@ -1,6 +1,5 @@
+<img width="1024" height="683" alt="WhatsApp Image 2026-06-12 at 15 12 08" src="https://github.com/user-attachments/assets/82b4b8a6-4f3d-4e06-b73a-a2613469e27f" />
 
-
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=22&pause=1200&color=36BCF7&center=true&vCenter=true&width=750&lines=🤖+AI-Powered+Shopping+Experience;🥽+Augmented+Reality+Product+Visualization;🎯+Smart+Personalized+Recommendations;💬+Intelligent+Shopping+Chatbot;⚡+Built+with+MERN+Stack+%2B+OpenAI" alt="Typing SVG" />
 
 <br/><br/>
 
