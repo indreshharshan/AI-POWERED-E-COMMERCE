@@ -1,6 +1,7 @@
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Shopper%20AI&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI-Powered%20E-Commerce%20%7C%20AR%20Integration%20%7C%20MERN%20Stack&descAlignY=58&descSize=18" />
+<img width="1536" height="1024" alt="ChatGPT Image Jun 12, 2026, 03_03_44 PM" src="https://github.com/user-attachments/assets/bdfdbdfc-7654-48ca-987b-7bf514c01044" />
 
 <br/>
 
