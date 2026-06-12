@@ -197,12 +197,6 @@ Shopper-AI/
 
 # ⚙️ Installation
 
-## Clone Repository
-
-```bash
-git clone https://github.com/yourusername/shopper-ai.git
-```
-
 ## Frontend Setup
 
 ```bash
@@ -243,19 +237,6 @@ CLIENT_URL=http://localhost:5173
 
 ---
 
-# 🚀 Future Enhancements
-
-- Voice Based Shopping
-- AI Image Search
-- Real-Time Recommendation Engine
-- Multi Vendor Marketplace
-- Product Comparison AI
-- Advanced Analytics Dashboard
-- Mobile Application
-- AI Fashion Stylist
-
----
-
 # 🎯 Project Objectives
 
 ✔ Improve Online Shopping Experience
@@ -285,12 +266,6 @@ CLIENT_URL=http://localhost:5173
 # 👨‍💻 Author
 
 ### Indresh Harshan
-
-📧 Email: your-email@example.com
-
-💼 LinkedIn: Add Your LinkedIn
-
-🐙 GitHub: https://github.com/yourusername
 
 ---
 
